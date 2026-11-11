@@ -1,0 +1,4 @@
+Store A,1200
+Store A,800
+Store B,950
+Store B,650
